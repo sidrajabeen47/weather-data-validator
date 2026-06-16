@@ -1,0 +1,32 @@
+Mumbai | 32.10°C | Mist | Status: PASSED
+
+London | 21.20°C | Patchy rain nearby | Status: PASSED
+
+New York | 28.90°C | Sunny | Status: PASSED
+
+Chennai | 31.10°C | Mist | Status: PASSED
+
+Dubai | 35.30°C | Clear | Status: PASSED
+
+Bangkok | 25.00°C | Partly Cloudy | Status: PASSED
+
+Singapore | 27.40°C | Partly cloudy | Status: PASSED
+
+Chicago | 22.20°C | Sunny | Status: PASSED
+
+Toronto | 27.30°C | Sunny | Status: PASSED
+
+Toyota | 21.10°C | Smoky haze | Status: PASSED
+
+London | 13.30°C | Sunny | Status: PASSED
+
+Hyderabad | 30.10°C | Mist | Status: PASSED
+
+Paris | 19.30°C | Partly Cloudy | Status: PASSED
+
+Berlin | 10.20°C | Overcast | Status: PASSED
+
+Tokyo | 27.30°C | Partly cloudy | Status: PASSED
+
+Schenectady | 13.30°C | Clear | Status: PASSED
+
